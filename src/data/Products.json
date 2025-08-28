@@ -1,0 +1,68 @@
+[
+    {
+      "id": 0,
+      "img": "/images/m20.jpg",
+      "name": "M20",
+      "price": 185
+    },
+    {
+      "id": 1,
+      "img": "/images/m60.jpg",
+      "name": "M60",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "img": "/images/flip.jpg",
+      "name": "Flip",
+      "price": 140
+    },
+    {
+      "id": 3,
+      "img": "/images/m30.jpg",
+      "name": "M30",
+      "price": 90
+    },
+    {
+      "id": 4,
+      "img": "/images/m40.jpg",
+      "name": "M40",
+      "price": 350
+
+    },
+    {
+      "id": 5,
+      "img": "/images/m50.jpg",
+      "name": "M50",
+      "price": 115
+    },
+    {
+      "id": 6,
+      "img": "/images/m70.jpg",
+      "name": "M70",
+      "price": 225
+    },
+    {
+      "id": 6,
+      "img": "/public/images/m30s (2).jpg",
+      "name": "M30S",
+      "price": 225
+    },
+    {
+      "id": 6,
+      "img": "/public/images/m50s.jpg",
+      "name": "M50S",
+      "price": 225
+    },
+    {
+      "id": 6,
+      "img": "/public/images/m50s2.jpg",
+      "name": "M50S",
+      "price": 225
+    }
+    
+
+
+
+
+  ]
